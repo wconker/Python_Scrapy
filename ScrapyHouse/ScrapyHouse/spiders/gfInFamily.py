@@ -2,6 +2,7 @@ import scrapy
 import requests
 
 url = "http://web4.cartoonmad.com/home1367/4240/157/001.jpg"
+
 # https://www.cartoonmad.com/comic/424000572018002.html
 
 class DilidiliVideo(scrapy.Spider):
